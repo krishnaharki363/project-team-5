@@ -15,8 +15,8 @@ Perform a rigorous statistical analysis on clinical features extracted from Card
 ## 👥 Team Information
 **Team Name:** [MindMatrix]  
 **Team Members:** 
-Krish Naharki
-Chirag GT
+"Krish Naharki"
+"Chirag GT"
 
 ---
 
