@@ -89,5 +89,3 @@ Outliers exist but are clinically meaningful.
 Visualizations show clear patterns that support machine learning classification.
 
 The dataset is highly suitable for fetal health prediction models.
-
-✅ Deliverables Covered
