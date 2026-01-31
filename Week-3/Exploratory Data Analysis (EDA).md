@@ -20,6 +20,7 @@ Some features have high variance, suggesting the presence of outliers.
 All features are numeric, making the dataset suitable for machine learning models.
 
 2. Data Preprocessing
+
 🔹 Missing Values
 
 The dataset contains no missing values, so no imputation techniques were required.
