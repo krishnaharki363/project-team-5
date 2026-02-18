@@ -1,0 +1,9 @@
+Week 5: Statistical Analysis and Validation
+
+In Week 5, we work with the fetal health dataset to understand and analyze the data using statistics and machine learning. First, we load the data and look at its structure, check the column types, and see some sample rows. Next, we calculate descriptive statistics like the mean, standard deviation, and quartiles to understand the general behavior of the data and how the different fetal health classes are distributed. We also use visualizations like histograms and correlation heatmaps to see patterns and relationships between features.
+
+Then, we perform inferential statistics to test our hypotheses. For example, we use a t-test to compare the baseline value between Normal and Pathological cases, ANOVA to check differences across all three classes, and chi-square tests to see if categorical groupings are associated with fetal health. Based on p-values, we can determine if differences are statistically significant.
+
+After that, we prepare the data for machine learning by splitting it into training and test sets and scaling the features so that all values are on a similar range. We train a Logistic Regression model to predict fetal health classes. To evaluate the model, we use a classification report to see precision, recall, and F1-score for each class, and a confusion matrix to check which classes are often confused. We also look at residuals to understand where the model makes errors.
+
+Overall, this process helps us understand the dataset, validate our hypotheses using statistical tests, build a predictive model, and check how well the model works. These steps allow us to draw meaningful conclusions about fetal health patterns in a simple and systematic way.
